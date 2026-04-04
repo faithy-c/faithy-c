@@ -33,7 +33,7 @@ Git, GitHub, VS Code, Render, WhiteNoise
 ---
 **📌 Current Focus**
 
-🌱 I'm currently learning advanced concepts in JavaScript  
+🌱 I'm currently learning advanced concepts in JavaScript
 🤝 I'm open to collaborations on:  
   Android (Java/Kotlin)  
   iOS (Swift)  
