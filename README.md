@@ -1,16 +1,52 @@
-## Hi there 👋
+Hi 👋, I'm Faith
+---
+ **💻 Full-Stack Software Developer | ✍️ Writer**
+ ---
+ I'm an aspiring Full-Stack Developer with a strong foundation in building modern, responsive, and scalable web applications.
 
-<!--
-**faithy-c/faithy-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in web development using:
 
-Here are some ideas to get you started:
+**Frontend:** HTML5, CSS3, Bootstrap  
+**Backend:** Python, Django  
+**Tools:** Git, GitHub, VS Code  
+**Deployment:** Render, WhiteNoise  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a solid understanding of responsive design, backend development, and building dynamic web applications using Django. I enjoy creating clean user interfaces and efficient backend systems while continuously improving my skills.
+
+I am passionate about learning, problem-solving, and building real-world projects that provide value and great user experiences.
+
+---
+**🚀 Tech Stack**
+
+**Frontend:**
+HTML5, CSS3, Bootstrap
+
+**Backend:**
+Python, Django
+
+**Databases:**
+SQLite, PostgreSQL
+
+**Tools & Platforms:**
+Git, GitHub, VS Code, Render, WhiteNoise
+
+---
+**📌 Current Focus**
+
+🌱 I'm currently learning advanced concepts in JavaScript  
+🤝 I'm open to collaborations on:  
+  Android (Java/Kotlin)  
+  iOS (Swift)  
+  Web applications using HTML, CSS, Bootstrap, and Django
+  
+  ---
+**📫 Contact Me**
+
+📍 Nairobi, Kenya
+
+📧 Email: faithchelagat54@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/faith-chelagat-68b2042a7/
+
+---
+Let’s collaborate to build smart, scalable, and user-centered applications that make a difference!
