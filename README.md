@@ -1,6 +1,6 @@
 Hi 👋, I'm Faith
 ---
- **💻 Full-Stack Software Developer | ✍️ Writer**
+ **💻 Full-Stack Software Developer
  ---
  I'm an aspiring Full-Stack Developer with a strong foundation in building modern, responsive, and scalable web applications.
 
