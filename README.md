@@ -1,6 +1,6 @@
 Hi 👋, I'm Faith
 ---
- **💻 Full-Stack Software Developer
+ 💻 Full-Stack Software Developer
  ---
  I'm an aspiring Full-Stack Developer with a strong foundation in building modern, responsive, and scalable web applications.
 
@@ -9,7 +9,7 @@ I specialize in web development using:
 **Frontend:** HTML5, CSS3, Bootstrap  
 **Backend:** Python, Django  
 **Tools:** Git, GitHub, VS Code  
-**Deployment:** Render, WhiteNoise  
+**Deployment:** Render  
 
 I have a solid understanding of responsive design, backend development, and building dynamic web applications using Django. I enjoy creating clean user interfaces and efficient backend systems while continuously improving my skills.
 
@@ -28,15 +28,13 @@ Python, Django
 SQLite, PostgreSQL
 
 **Tools & Platforms:**
-Git, GitHub, VS Code, Render, WhiteNoise
+Git, GitHub, VS Code, Render
 
 ---
 **📌 Current Focus**
 
 🌱 I'm currently learning advanced concepts in JavaScript
 🤝 I'm open to collaborations on:  
-  Android (Java/Kotlin)  
-  iOS (Swift)  
   Web applications using HTML, CSS, Bootstrap, and Django
   
   ---
